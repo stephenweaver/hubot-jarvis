@@ -11,5 +11,6 @@
   "hubot-shipit",
   "hubot-scripts-stock",
   "hubot-espn",
-  "hubot-wolfram-alpha"
+  "hubot-wolfram-alpha",
+  "hubot-weather"
 ]
