@@ -10,5 +10,6 @@
   "hubot-rules",
   "hubot-shipit",
   "hubot-scripts-stock",
-  "hubot-espn"
+  "hubot-espn",
+  "hubot-wolfram-alpha"
 ]
